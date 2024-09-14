@@ -21,10 +21,18 @@ function About() {
       <div className="w-1/3 py-20">
         <div className="font-bold text-3xl ">About Me</div>
         <div className="text-justify">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio atque
-          asperiores animi vitae harum officia commodi magnam ducimus, ipsa
-          aspernatur? Ipsam sequi voluptatem ipsum, modi dicta rerum tenetur
-          placeat dolorum.
+          When I’m not coding, you can find me strumming my guitar, playing
+          football, or diving into esports like PUBG and MLBB. I’m also a fan of
+          series with compelling stories that evoke real emotions. I also enjoy
+          traveling and listening music a lot.
+          <br />
+          <br />
+          I'm inspired by my parents, who have taught me the value of
+          perseverance and resilience. I got strength of maintaining calmness in
+          tough situations, which helps me navigate challenges with a positive
+          mindset. I particularly enjoy “The Lord of the Rings”, “The Pursuit of
+          Happiness” and “The Shawshank Redemption,” as I appreciate stories
+          that are both inspiring and impactful.
         </div>
 
         <h1 className="mt-20 font-bold text-4xl text-green-500 text-center">
