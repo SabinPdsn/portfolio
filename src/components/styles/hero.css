@@ -1,0 +1,13 @@
+#hero {
+  box-shadow: 300px 0 300px rgb(68, 39, 0) inset,
+    -300px 0 300px rgb(0, 32, 61) inset;
+}
+#name {
+  background: -webkit-linear-gradient(
+    left,
+    rgb(248, 141, 0),
+    rgb(0, 132, 255)
+  ); /* For WebKit browsers */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
