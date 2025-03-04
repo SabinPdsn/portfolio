@@ -11,7 +11,7 @@ function Contact() {
             gentrify.
           </p>
         </div>
-        <div className="lg:w-1/2 md:w-2/3 mx-auto">
+        <form action="https://getform.io/f/bkkypykb" method="POST" className="lg:w-1/2 md:w-2/3 mx-auto">
           <div className="flex flex-wrap -m-2">
             <div className="p-2 w-1/2">
               <div className="relative">
@@ -61,8 +61,8 @@ function Contact() {
               </div>
             </div>
             <div className="p-2 w-full">
-              <button className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                Button
+              <button type="submit" className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                Submit
               </button>
             </div>
             <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
@@ -133,7 +133,7 @@ function Contact() {
               </span>
             </div>
           </div>
-        </div>
+        </form>
       </div>
     </section>
   );
