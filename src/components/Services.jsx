@@ -20,21 +20,22 @@ export default Services;
 
 const cardData = [
   {
-    image: "https://random.imagecdn.app/500/300",
-    title: "Responsive design",
+    image: "https://www.fexle.com/blogs/wp-content/uploads/2020/05/ux-ui-indesign-1.png",
+    title: "UI UX Design",
     description:
-      "Creating websites that look great and function flawlessly on all devices, from smartphones to desktops.",
+     "Designing and building intuitive and visually appealing user interfaces that enhance user experience.",
   },
   {
-    image: "https://random.imagecdn.app/500/350",
-    title: "UI UX ",
+    image:"https://miro.medium.com/v2/resize:fit:2558/1*rAnAMmvA6FmPcCf8h16Lvg.jpeg",
+    title: "Frontend Development ",
     description:
-      "Designing and building intuitive and visually appealing user interfaces that enhance user experience.",
+      "Developing interactive and dynamic web applications using latest frontend technologies, including front-end frameworks like React, Vue, and Angular.",
   },
   {
-    image: "https://random.imagecdn.app/500/250",
-    title: "JS Web Development ",
+    image: "https://images.shiksha.com/mediadata/images/articles/1717655243php7KA6Hu.jpeg",
+    title: "Backend Development",
     description:
-      "Developing interactive and dynamic web applications using JavaScript, including front-end frameworks like React, Vue, and Angular.",
+    "Building robust and scalable server-side applications, ensuring secure data handling, and integrating APIs using modern backend technologies like Node.js, Laravel and more."
   },
+ 
 ];

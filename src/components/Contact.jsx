@@ -66,14 +66,15 @@ function Contact() {
               </button>
             </div>
             <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-              <a className="text-indigo-500">example@email.com</a>
+              <a className="text-indigo-500">sbnpdsn@gmail.com</a>
               <p className="leading-normal my-5">
-                49 Smith St.
+                Kathmandu, Nepal
                 <br />
-                Saint Cloud, MN 56301
+                
               </p>
               <span className="inline-flex">
-                <a className="text-gray-500">
+              <a href="https://www.facebook.com/SabeenPudasaini.21" target="_blank"  className="text-gray-500">
+                  
                   <svg
                     fill="currentColor"
                     strokeLinecap="round"
@@ -85,7 +86,7 @@ function Contact() {
                     <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                   </svg>
                 </a>
-                <a className="ml-4 text-gray-500">
+                <a className="ml-4 text-gray-500" href="https://x.com/SabinPudasain12" target="_blank">
                   <svg
                     fill="currentColor"
                     strokeLinecap="round"
@@ -97,7 +98,7 @@ function Contact() {
                     <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"></path>
                   </svg>
                 </a>
-                <a className="ml-4 text-gray-500">
+                <a className="ml-4 text-gray-500" href="https://www.instagram.com/sabinpudasaini1234/" target="_blank">
                   <svg
                     fill="none"
                     stroke="currentColor"
@@ -118,7 +119,7 @@ function Contact() {
                     <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
                   </svg>
                 </a>
-                <a className="ml-4 text-gray-500">
+                <a className="ml-4 text-gray-500" >
                   <svg
                     fill="currentColor"
                     strokeLinecap="round"

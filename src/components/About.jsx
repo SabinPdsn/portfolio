@@ -31,7 +31,7 @@ function About() {
           perseverance and resilience. I got strength of maintaining calmness in
           tough situations, which helps me navigate challenges with a positive
           mindset. I particularly enjoy “The Lord of the Rings”, “The Pursuit of
-          Happiness” and “The Shawshank Redemption,” as I appreciate stories
+          Happyness” and “The Shawshank Redemption,” as I appreciate stories
           that are both inspiring and impactful.
         </div>
 
@@ -48,7 +48,7 @@ function About() {
                 variant="body2"
                 className="text-white"
               >
-                2014-2018
+                2018-2020
               </TimelineOppositeContent>
               <TimelineSeparator>
                 <TimelineConnector />
@@ -59,9 +59,9 @@ function About() {
               </TimelineSeparator>
               <TimelineContent sx={{ py: "12px", px: 2 }}>
                 <Typography variant="h6" component="span">
-                  Bansbari International College
+                  Herald International College
                 </Typography>
-                <Typography>SLC</Typography>
+                <Typography>College</Typography>
               </TimelineContent>
             </TimelineItem>
             <TimelineItem>
@@ -70,7 +70,7 @@ function About() {
                 variant="body2"
                 className="text-white"
               >
-                10:00 am
+                Everyday
               </TimelineOppositeContent>
               <TimelineSeparator>
                 <TimelineConnector />
@@ -117,6 +117,7 @@ function About() {
               </TimelineContent>
             </TimelineItem>
           </Timeline>
+          
         </div>
       </div>
     </div>
